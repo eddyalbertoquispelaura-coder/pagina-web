@@ -39,7 +39,7 @@ body {
 
 .flowers {
   position: relative;
-  transform: scale(0.9);
+  transform: scale(1.1);
 }
 
 .flower {
@@ -53,12 +53,12 @@ body {
 .message {
  
   bottom: 50px;
-  color: #f1fd0e;
+  color: #f3f4ed;
   font-family: "aria", sans-serif;
-  font-size: 40px;
+  font-size: 5vw;
   font-style: normal;
   font-weight: 800;
-  height: 80px;
+  height: 50px;
   line-height: 1;
   padding: 10px;
   position: absolute;
